@@ -32,20 +32,6 @@ The prototype is built in Figma and is meant to showcase UI layout, navigation f
 
 ---
 
-## Screenshots 
-
-Here are some preview images from the prototype:
-
-| Screen / Flow | Preview |
-|--------------|---------|
-| Home / Shopping List screen | ![Home screen](assets/images/home-screen.png) |
-| Add Item screen | ![Add item](assets/images/add-item-screen.png) |
-| Item detail / mark as bought | ![Item detail](assets/images/item-detail-screen.png) |
-
-
-
----
-
 ## What I Learned / Why This Matters
 
 - Practiced designing user flows and mobile UI layouts  

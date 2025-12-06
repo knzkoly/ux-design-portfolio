@@ -1,4 +1,3 @@
-# ux-design-portfolio
 # Shopping-List Mobile App Prototype 
 
 **Prototype created with Figma**  
@@ -44,10 +43,6 @@ The prototype is built in Figma and is meant to showcase UI layout, navigation f
 ## 📎 Links
 
 - [Figma Prototype (Interactive)](https://www.figma.com/design/KiI9ife1m61j6FZdqdkp12/Shopping-list-mobile-app-prototype?node-id=0-1&p=f&t=ibXINVGLd3Yf5zpK-0)  
-
----
-
-
 
 ---
 
